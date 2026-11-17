@@ -1,13 +1,11 @@
-🎬streaming-content-engagement-python-eda
+1. # 🎬 Streaming Content Engagement & Genre Behaviour Analysis (Python EDA)
 
 
 > A **Python-based exploratory data analysis** project examining content patterns and viewing behaviour across Netflix titles — revealing genre distribution, content type split, duration outliers, and actionable insights for content strategy.
 
-📌 **Built for:** Data Analyst Portfolio | Remote Jobs | Business Intelligence Roles  
+  
 🛠️ **Tools:** Python · pandas · NumPy · Matplotlib · seaborn  
-📁 **Dataset:** Kaggle — Netflix Movies and TV Shows Dataset
-
----
+📁 **Scope:** 8,800+ Streaming Catalog Titles (Movies & TV Shows)
 
 ## 🎯 Business Problem
 
@@ -160,7 +158,7 @@ Final Conclusions & Business Recommendations
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/SAYLI-28/Netflix-Viewer-Engagement-Genre-Behavior-Analysis.git
+git clone https://github.com/SAYLI-28/streaming-content-engagement-python-eda
 
 # 2. Install dependencies
 pip install -r requirements.txt
@@ -199,11 +197,11 @@ jupyter>=1.0.0
 
 ## 👩‍💻 About
 
-Built by **Sayli Markandey** — Junior Data Analyst  
+Built by **Sayli Markandey** — Data Analyst & Power BI Developer 
 📧 saylimarkandey@gmail.com  
 🐙 [github.com/SAYLI-28](https://github.com/SAYLI-28)
 
-*Open to remote Data Analyst opportunities globally.*
+• *Open to Data Analyst, Power BI Developer & Business Intelligence roles.*
 
 ---
 
