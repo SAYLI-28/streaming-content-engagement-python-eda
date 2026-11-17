@@ -1,4 +1,5 @@
-🎬 Netflix Viewer Engagement & Genre Behaviour Analysis
+🎬streaming-content-engagement-python-eda
+
 
 > A **Python-based exploratory data analysis** project examining content patterns and viewing behaviour across Netflix titles — revealing genre distribution, content type split, duration outliers, and actionable insights for content strategy.
 
